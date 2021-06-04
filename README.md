@@ -34,3 +34,8 @@
  + [[DataBase] 4. 정규화](https://develaniper-devpage.tistory.com/99) -2021.06.03
  + [[DataBase] 5. 파티셔닝/ 샤딩](https://develaniper-devpage.tistory.com/100) -2021.06.03
  + [[DataBase] 6. 조인(JOIN)](https://develaniper-devpage.tistory.com/101) -2021.06.03
+
+### 웹 (Web)
+ + [[Web] 1. 웹서버와 WAS(Web Application Server)](https://develaniper-devpage.tistory.com/102) -2021.06.04
+ + [[Web] 2. REST/REST API/RESTful](https://develaniper-devpage.tistory.com/103) -2021.06.04
+
