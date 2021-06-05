@@ -13,6 +13,9 @@
  + [[OS] 5. 동기화 ](https://develaniper-devpage.tistory.com/87) -2021.05.22
  + [[OS] 6. 가상메모리 ](https://develaniper-devpage.tistory.com/89) -2021.05.24
 
+
+
+
 ### 네트워크 (Network)
 
  + [[Network] 1. OSI 7계층, TCP/IP 4계층](https://develaniper-devpage.tistory.com/81) -2021.05.19
@@ -21,10 +24,16 @@
  + [[Network] 4. HTTP 버전 & QUIC](https://develaniper-devpage.tistory.com/90) -2021.05.25
  + [[Network] 5. 주소창에 www.naver.com을 쳤을 때 생기는일](https://develaniper-devpage.tistory.com/88) -2021.05.23
 
+
+
+
 ### 프로그래밍 언어 (Languages)
 
  + [[프로그래밍언어] 절차지향 vs 객체지향 vs 함수형 프로그래밍](https://develaniper-devpage.tistory.com/92) -2021.05.26
  + [[프로그래밍언어] 자바(1) 비 언어적 부분( 구성, 특성 )](https://develaniper-devpage.tistory.com/97) -2021.06.01
+
+
+
 
 ### 데이터베이스 (DataBase)
 
@@ -34,8 +43,17 @@
  + [[DataBase] 4. 정규화](https://develaniper-devpage.tistory.com/99) -2021.06.03
  + [[DataBase] 5. 파티셔닝/ 샤딩](https://develaniper-devpage.tistory.com/100) -2021.06.03
  + [[DataBase] 6. 조인(JOIN)](https://develaniper-devpage.tistory.com/101) -2021.06.03
+ + [[DataBase] 7. ORM](https://develaniper-devpage.tistory.com/104) -2021.06.04
+
+
 
 ### 웹 (Web)
  + [[Web] 1. 웹서버와 WAS(Web Application Server)](https://develaniper-devpage.tistory.com/102) -2021.06.04
  + [[Web] 2. REST/REST API/RESTful](https://develaniper-devpage.tistory.com/103) -2021.06.04
 
+
+
+### 소프트웨어 공학 (Software Engineering)
+ + [[SoftwareEngineering] 1. 디자인 패턴 - 생성](https://develaniper-devpage.tistory.com/105) -2021.06.05
+ + [[SoftwareEngineering] 2. 디자인 패턴 - 구조](https://develaniper-devpage.tistory.com/107) -2021.06.05
+ + [[SoftwareEngineering] 3. 디자인 패턴 - 행위](https://develaniper-devpage.tistory.com/106) -2021.06.05
