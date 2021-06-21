@@ -31,6 +31,8 @@
 
  + [[프로그래밍언어] 절차지향 vs 객체지향 vs 함수형 프로그래밍](https://develaniper-devpage.tistory.com/92) -2021.05.26
  + [[프로그래밍언어] 자바(1) 비 언어적 부분( 구성, 특성 )](https://develaniper-devpage.tistory.com/97) -2021.06.01
+ + [[프로그래밍언어] 자바(2) 언어적 부분](https://develaniper-devpage.tistory.com/112) -2021.06.21
+
 
 
 
